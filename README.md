@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MacleverMac
+- 👀 I’m interested in history, geopolitics, political geography and Programming
+- 🌱 I’m currently learning python and JS
